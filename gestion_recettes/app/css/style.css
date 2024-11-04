@@ -1,0 +1,256 @@
+* {
+
+    margin: auto;
+    font-family: 'Nunito Sans';
+}
+
+.links {
+
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    background: #6f2e00;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
+
+form {
+
+    min-width: 10px;
+}
+
+.form-link {
+
+    text-decoration: none;
+    color: #6f2e00;
+}
+
+.form-btn {
+
+    margin-left: 20px;
+    border: none;
+    padding: 10px;
+    background: #6f2e00;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+form input {
+
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 0px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #dadada;
+}
+
+textarea {
+
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 0px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #dadada;
+    resize: none;
+    width: 500px;
+    height: 400px;
+}
+
+.ingredient {
+
+    padding: 20px;
+    margin-top: 5px;
+    border-radius: 0px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background: #dadada;
+    resize: none;
+    width: 500px;
+    height: 200px;
+}
+
+label {
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+h1 {
+
+    color: #6f2e00;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+h2 {
+
+    color: #6f2e00;
+    text-align: center;
+}
+
+h3 {
+
+    color: #6f2e00;
+    text-align: center;
+    font-size: 40px;
+}
+
+h4 {
+
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    opacity: 50%;
+}
+
+h5 {
+
+    font-size: 45px;
+    color: black;
+    opacity: 50%;
+    font-weight: lighter;
+    margin-bottom: 10px;
+}
+
+.main-content {
+
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span {
+
+    font-weight: lighter;
+}
+
+.nav-links {
+
+    padding: 20px;
+    min-height: 30px;
+}
+
+.nav-links a {
+
+    float: right;
+    text-decoration: none;
+    font-weight: bold;
+    color: #6f2e00;
+    font-size: 15px;
+    margin-right: 10px;
+}
+
+.profile-content {
+
+    margin: auto;
+    width: 70%;
+    min-height: 10px;
+}
+
+.add-btn {
+
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    background: #6f2e00;
+    padding: 10px;
+    cursor: pointer;
+}
+
+ul {
+
+    margin-top: 50px;
+}
+
+li {
+
+    list-style: none;
+}
+
+li a {
+
+    font-size: 20px;
+    color: #6f2e00;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+li a:hover {
+
+    color: #cc5500;
+}
+
+.recipe-content {
+
+    margin: auto;
+    width: 700px;
+}
+
+.recipe-content p {
+
+    font-weight: bold;
+}
+
+hr {
+
+    border: solid 0.5px grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.form-filter {
+
+    margin-top: 20px;
+}
+
+.form-filter input {
+
+    font-weight: bold;
+    padding: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    border-radius: 0px;
+    background: #6f2e00;
+    color: white;
+}
+
+.empty {
+
+    font-size: 45px;
+    color: black;
+    opacity: 50%;
+    font-weight: lighter;
+}
+
+select {
+
+    border: none;
+    padding: 5px;
+}
+
+.ingredient-content {
+
+    background: #dadada;
+    border-radius: 30px;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.ingredient-content p {
+
+    margin: 0px;
+}
+
+.preparation-content {
+
+    margin-bottom: 40px;
+}
